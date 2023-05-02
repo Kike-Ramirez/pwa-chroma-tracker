@@ -1,4 +1,4 @@
-![Chroma-Tracker-Logo](public\assets\pictures\Chromatrack_Logo.png)
+![Chroma-Tracker-Logo](https://raw.githubusercontent.com/Kike-Ramirez/pwa-chroma-tracker/main/public/assets/pictures/Chromatrack_Logo.png)
 
 [Documentation](https://docs.pwabuilder.com/#/starter/quick-start)
 
